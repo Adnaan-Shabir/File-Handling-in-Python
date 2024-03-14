@@ -1,0 +1,4 @@
+File is a named location on disk to store information. 
+They are used to store data parmanently. 
+Data is stored in non-volatile memory.
+We can retrive data whenever required.
